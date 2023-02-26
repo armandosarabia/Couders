@@ -10,6 +10,9 @@ https://couders.doop.ml
 Pretotipo movil:
 https://marvelapp.com/prototype/75je709
 
+Video del demo:
+https://www.youtube.com/shorts/lGjXIG36B4k
+
 Este repositorio se estará actualizando, así que no te pierdas de las novedades.
 
 Muchas gracias 😎🤙
