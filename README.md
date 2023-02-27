@@ -11,6 +11,7 @@ Pretotipo movil:
 https://marvelapp.com/prototype/75je709
 
 Video del demo:
+https://www.youtube.com/watch?v=B1m0L1pbf98
 
 
 Este repositorio se estará actualizando, así que no te pierdas de las novedades.
